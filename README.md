@@ -5,6 +5,8 @@
 <hr>
 Фотографија од Control Flow Graph <br>
 
+![CONTROL FLOW DIAGRAM](https://user-images.githubusercontent.com/80423676/117710471-73dc5480-b1d2-11eb-9daf-76b9bf183640.jpg)
+
 
 Цикломатска Комплексност <br>
 
